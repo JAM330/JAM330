@@ -5,7 +5,7 @@ Hi my name is Jorge Martinez, I am a Freshman College student at University of T
 
 ### Contact Information
 Email: jorge.martinez42@utrgv.edu
-www.linkedin.com/in/jorge-martinez-bb4b81383
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) www.linkedin.com/in/jorge-martinez-bb4b81383
 
 ### Programming Languages
 I am intrested in learning computing languages such as Python. Another i would like to learn is C/C++ just to name a few, and hopefully help in my devolopement as a programmer in the future.
